@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/artificial-intelligence/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/artificial-intelligence/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
