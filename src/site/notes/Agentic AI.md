@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agentic-ai/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Agentic AI/","dg-note-properties":{}}
 ---
 
 Parent: [[Artificial Intelligence\|Artificial Intelligence]]

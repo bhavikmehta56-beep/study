@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/explaining-the-generative-ai-tools-below/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Explaining the Generative AI Tools below/","dg-note-properties":{}}
 ---
 
 See [[Generative AI\|Generative AI]]

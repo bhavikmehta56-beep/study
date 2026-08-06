@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rag/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/RAG/","dg-note-properties":{}}
 ---
 
 See [[Machine Learning\|Machine Learning]]

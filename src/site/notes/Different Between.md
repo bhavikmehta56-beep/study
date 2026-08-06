@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/different-between/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Different Between/","dg-note-properties":{}}
 ---
 
 See [[Artificial Intelligence\|Artificial Intelligence]]

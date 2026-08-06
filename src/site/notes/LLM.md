@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/llm/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/LLM/","dg-note-properties":{}}
 ---
 
 See [[Machine Learning\|Machine Learning]]
