@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Agentic AI/","dg-note-properties":{}}
 ---
 
-Parent: [[Artificial Intelligence\|Artificial Intelligence]]
+Parent: [[AI/Artificial Intelligence\|Artificial Intelligence]]
 
 **What is Agentic AI ?**
 

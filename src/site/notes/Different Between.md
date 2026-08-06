@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Different Between/","dg-note-properties":{}}
 ---
 
-See [[Artificial Intelligence\|Artificial Intelligence]]
+See [[AI/Artificial Intelligence\|Artificial Intelligence]]
 
 
 **Different between Generative AI vs. Agentic AI**
